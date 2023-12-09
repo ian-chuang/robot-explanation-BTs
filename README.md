@@ -4,7 +4,7 @@ This repository is a fork of the original project available at [uml-robotics/rob
 
 ## Project Overview
 
-In the context of this paper, we have introduced an extension to [an existing codebase](https://github.com/ian-chuang/BehaviorTree.CPP) for generating explanations using behavior trees (BTs). Our contributions to this project include:
+In the context of this paper, we have introduced an extension to [an existing codebase](https://anonymous.4open.science/r/BehaviorTreeCPPD20A/README.md) for generating explanations using behavior trees (BTs). Our contributions to this project include:
 
 1. **Next Action Explanations**: We've created algorithms that allow users to ask about what an agent's next action will be in case of success or failure in their current action.
 
@@ -47,7 +47,7 @@ To install the necessary dependencies and set up your environment, follow these 
 4. Clone the required repositories:
 
    ```bash
-   git clone -b v4.3 https://github.com/ian-chuang/BehaviorTree.CPP.git
+   git clone -b v4.3 https://anonymous.4open.science/r/BehaviorTreeCPPD20A.git
    git clone https://github.com/ian-chuang/robot-explanation-BTs.git
    ```
 
